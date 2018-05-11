@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5f05e02-0fe7-416d-b8aa-ad37ca05d870" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dashboard.js" afterPath="$PROJECT_DIR$/src/components/Dashboard.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/Travelstories.js" afterPath="$PROJECT_DIR$/src/components/Travelstories.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dashboard.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dashboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Travelstories.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Travelstories.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="53" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -176,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/db/mainApi.js" />
         <option value="$PROJECT_DIR$/src/db/api/User.js" />
         <option value="$PROJECT_DIR$/src/components/Booking.js" />
-        <option value="$PROJECT_DIR$/src/components/Travelstories.js" />
         <option value="$PROJECT_DIR$/src/components/Profile.js" />
         <option value="$PROJECT_DIR$/src/components/user/addNew.js" />
         <option value="$PROJECT_DIR$/src/components/user/list.js" />
@@ -194,6 +203,7 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/components/Travelstories.js" />
       </list>
     </option>
   </component>
@@ -382,12 +392,12 @@
       <workItem from="1524901126015" duration="17000" />
       <workItem from="1525404214784" duration="646000" />
       <workItem from="1525853488361" duration="1187000" />
-      <workItem from="1526010612114" duration="641000" />
+      <workItem from="1526010612114" duration="1067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327379000" />
+    <option name="totallyTimeSpent" value="327805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1433" y="-169" width="1382" height="784" extended-state="0" />
@@ -617,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Travelstories.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Profile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -746,6 +749,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Travelstories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="53" selection-end-column="25" />
           <folding />
         </state>
       </provider>
