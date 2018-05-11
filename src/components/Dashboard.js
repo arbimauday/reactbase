@@ -9,30 +9,8 @@ import Edit from './user/Edit'
 export default class Dashboard extends Component{
     constructor(){
         super();
-        // this.state = {
-        //     list : []
-        // };
         this.addTodo = this.addTodo.bind(this)
-        //this.viewList = this.viewList.bind(this)
     }
-
-    // componentDidMount(){
-    //     this.viewList();
-    //     console.log()
-    // }
-    //
-    // viewList(){
-    //     var url = 'http://localhost:5000/api/user';
-    //     $.ajax({
-    //         crossDomain: true,
-    //         type: "GET",
-    //         url: url,
-    //         success: function (data) {
-    //             console.log(data)
-    //             this.setState({list: data.data})
-    //         }.bind(this)
-    //     })
-    // }
 
     addTodo(){
         this.state.list.push({name:'Siko Mauday',country:'Indonesia'});
@@ -40,7 +18,7 @@ export default class Dashboard extends Component{
     }
 
     render(){
-        
+
         return(
             <div id="dashboard" className="tab-pane fade in active">
                 <h1 className="no-margin skin-color">Hi Jessica, Welcome to Travelo!</h1>
