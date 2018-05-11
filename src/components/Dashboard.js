@@ -40,8 +40,7 @@ export default class Dashboard extends Component{
     }
 
     render(){
-
-        //console.log(this.props.match.url) // this script for get name url
+        
         return(
             <div id="dashboard" className="tab-pane fade in active">
                 <h1 className="no-margin skin-color">Hi Jessica, Welcome to Travelo!</h1>
