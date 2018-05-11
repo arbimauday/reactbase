@@ -1,0 +1,28 @@
+{
+  "name": "appbase",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "express-validation": "^1.0.2",
+    "jquery": "^3.3.1",
+    "jquery-slimscroll": "^1.3.8",
+    "mysql": "^2.15.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "PORT=40000 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "style-loader": "^0.20.1"
+  }
+}
